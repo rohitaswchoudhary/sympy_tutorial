@@ -1,0 +1,6 @@
+{
+    "python.analysis.completeFunctionParens": true,
+    "python.autoComplete.addBrackets": true,
+    "vsintellicode.java.completionsEnabled": false,
+    "vsintellicode.features.python.deepLearning": "enabled"
+}
